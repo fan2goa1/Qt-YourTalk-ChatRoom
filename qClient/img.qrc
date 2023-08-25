@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/folder.svg</file>
+        <file>img/emoji.svg</file>
+        <file>img/history.svg</file>
+        <file>img/prtsc.svg</file>
+        <file>img/close.svg</file>
+        <file>img/Maximize-1.svg</file>
+        <file>img/Maximize-3.svg</file>
+        <file>img/Minimize-1.svg</file>
+        <file>img/Shut down-1.svg</file>
+        <file>img/Settings.svg</file>
+        <file>img/Maximize-1-hover.svg</file>
+        <file>img/Minimize-1-hover.svg</file>
+        <file>img/head.jpg</file>
+        <file>img/add_friend.svg</file>
+        <file>img/ChangeColor.svg</file>
+        <file>img/exp1.png</file>
+        <file>img/exp2.png</file>
+        <file>img/exp3.png</file>
+        <file>img/exp4.png</file>
+        <file>img/exp5.png</file>
+        <file>img/exp6.png</file>
+        <file>img/image.svg</file>
+        <file>img/prtsc_click.svg</file>
+        <file>img/prtsc_close.svg</file>
+        <file>img/prtsc_draw.svg</file>
+        <file>img/file_pic.png</file>
+        <file>img/logo.png</file>
+    </qresource>
+</RCC>
