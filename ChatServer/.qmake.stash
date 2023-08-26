@@ -1,0 +1,12 @@
+QMAKE_DEFAULT_INCDIRS = \
+    D:/3.1/Shixi/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0/include \
+    D:/3.1/Shixi/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed \
+    D:/3.1/Shixi/Tools/mingw530_32/i686-w64-mingw32/include \
+    D:/3.1/Shixi/Tools/mingw530_32/i686-w64-mingw32/include/c++ \
+    D:/3.1/Shixi/Tools/mingw530_32/i686-w64-mingw32/include/c++/i686-w64-mingw32 \
+    D:/3.1/Shixi/Tools/mingw530_32/i686-w64-mingw32/include/c++/backward
+QMAKE_DEFAULT_LIBDIRS = \
+    D:/3.1/Shixi/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0 \
+    D:/3.1/Shixi/Tools/mingw530_32/lib/gcc \
+    D:/3.1/Shixi/Tools/mingw530_32/i686-w64-mingw32/lib \
+    D:/3.1/Shixi/Tools/mingw530_32/lib
