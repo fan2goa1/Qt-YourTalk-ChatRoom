@@ -402,7 +402,11 @@ void MyWidget::slot_readData(int handle, const QByteArray &data)
                 m_socketMap.value(handleapp)->write(str_5.toUtf8().data());
             }
         }
+<<<<<<< HEAD
         else if(str4 == "0"){
+=======
+        else if(str_4 == "0"){//
+>>>>>>> 1fc1ebf (fix bugs)
             int handleapp=GetHandleOfId(str_1);
             //m_sockketMap.value(handleapp) -> write(str.toUtf8().data());
         }

@@ -1,6 +1,10 @@
 #include "qslabel.h"
 #include"controlwidget.h"
 #include<QPalette>
+<<<<<<< HEAD
+=======
+#include<math.h>
+>>>>>>> 1fc1ebf (fix bugs)
 #include"screen.h"
 using namespace Qt;
 QSLabel::QSLabel(QWidget* parent)
