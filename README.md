@@ -7,4 +7,4 @@ Also, we created a message type used in the communications between Server and Cl
 
 Hope these docs and source codes can help you.
 
-Last but not least, thanks for all the unparalleled contributions from my groupmates [@saythe17](https://github.com/saythe17), [ZYNsama666](https://github.com/ZYNsama666), [AOVHO-DavidAn](https://github.com/AOVHO-DavidAn) and [zc]().
+Last but not least, thanks for all the unparalleled contributions from my groupmates [@saythe17](https://github.com/saythe17), [@ZYNsama666](https://github.com/ZYNsama666), [@AOVHO-DavidAn](https://github.com/AOVHO-DavidAn) and [@zc]().
